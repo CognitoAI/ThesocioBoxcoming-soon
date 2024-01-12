@@ -243,7 +243,7 @@ button,
   }
 }
 
-.twitter::before {
+/* .twitter::before {
   font-family: "Font Awesome 5 Brands";
   content: "\f099";
 }
@@ -252,13 +252,13 @@ button,
   font-family: "Font Awesome 5 Brands";
   content: "\f09a";
 }
-
+ */
 .instagram::before {
   font-family: "Font Awesome 5 Brands";
   content: "\f16d";
 }
 
-.github::before {
+/* .github::before {
   font-family: "Font Awesome 5 Brands";
   content: "\f09b";
 }
@@ -281,4 +281,4 @@ button,
 .linkedin::before {
   font-family: "Font Awesome 5 Brands";
   content: "\f08c";
-}
+} */
